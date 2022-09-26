@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "email": "Alex@gmail.com",
+      "password": "$2a$10$VMg3u.42D1SmZVTI7DIPUOE2acfdzL1p7kyqbDWupQAItc9FmF2E6",
+      "id": 1
+    },
+    {
+      "email": "Marin@gmail",
+      "password": "$2a$10$61XgQiM8TgQIzmPLw/ymluy2w8sxLFhJoLumtwJ66d18K2WLysXu6",
+      "id": 2
+    },
+    {
+      "email": "Marina@gmail",
+      "password": "$2a$10$vP5E6w/nQUMtbqoBwkFoa.p.pnKI3YQ6bDb6Nqtx7vUsBNfvyODAS",
+      "id": 3
+    }
+  ],
+
+  "register": [],
+
+  "cards": [
+    {
+      "id": 1,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Cry",
+      "ru": "Плакать",
+      "audio": "cry",
+      "img": "https://st2.depositphotos.com/1028581/10036/i/600/depositphotos_100365878-stock-photo-the-baby-cries.jpg"
+    },
+    {
+      "id": 2,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Dance",
+      "ru": "Танцевать",
+      "audio": "dance",
+      "img": "https://st.depositphotos.com/3029723/3886/i/450/depositphotos_38861695-stock-photo-lovely-little-boy-and-girl.jpg"
+    },
+    {
+      "id": 3,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Dive",
+      "ru": "Нырять",
+      "audio": "",
+      "img": "https://st.depositphotos.com/1371678/2606/i/600/depositphotos_26063527-stock-photo-girl-dives-in-water.jpg"
+    },
+    {
+      "id": 4,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Draw",
+      "ru": "Рисовать",
+      "audio": "",
+      "img": "https://static3.depositphotos.com/1002111/176/i/450/depositphotos_1763493-stock-photo-baby.jpg"
+    },
+    {
+      "id": 5,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Fish",
+      "ru": "Ловить рыбу",
+      "audio": "",
+      "img": "https://download-images.ru/images/photos/1436a45686e8779c1ab4131e8d0689d4.jpg"
+    },
+    {
+      "id": 6,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Fly",
+      "ru": "Летать",
+      "audio": "",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL-DE91nGD4pwa5ZR9SmCZ7OgXKTDY0pms3k1AOJ6twqw5AbeN2ItgFao-GTc2EiOp0c&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Hug",
+      "ru": "Обнимать",
+      "audio": "",
+      "img": "https://st2.depositphotos.com/3345275/8410/i/450/depositphotos_84105740-stock-photo-children-hugging-and-smiling.jpg"
+    },
+    {
+      "id": 8,
+      "title": "card",
+      "type": "actionA", 
+      "en": "Jump",
+      "ru": "Прыгать",
+      "audio": "",
+      "img": "https://st2.depositphotos.com/1177973/11689/i/600/depositphotos_116899568-stock-photo-cute-little-girl-jumping-on.jpg"
+    }
+  ],
+
+  "type_cards" : [
+    {
+      "id": 1,
+      "title": "Action (set A)",
+      "type": "actionA", 
+      "img": "https://st.depositphotos.com/3029723/3886/i/450/depositphotos_38861695-stock-photo-lovely-little-boy-and-girl.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Action (set B)",
+      "type": "actionB", 
+      "img": "https://oir.mobi/uploads/posts/2020-01/1580287328_1-p-deti-v-basseine-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Action (set C)",
+      "type": "actionC", 
+      "img": "https://razvitie-krohi.ru/wp-content/uploads/2018/09/rebenok-upal-i-udarilsya.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Adjective",
+      "type": "adjective", 
+      "img": "https://st.depositphotos.com/2763588/3956/i/600/depositphotos_39563819-stock-photo-little-boy-and-dog.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Animal (set A)",
+      "type": "animalA", 
+      "img": "https://mobimg.b-cdn.net/v3/fetch/39/39b51a53f9de228c385d1fe1ac603fb3.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Animal (set B)",
+      "type": "animalB", 
+      "img": "https://pw.artfile.me/wallpaper/30-01-2016/650x407/zhivotnye-slony-slon-1006690.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Clothes",
+      "type": "clothes", 
+      "img": "https://i.pinimg.com/736x/6a/60/20/6a60206b28cf2f431a14b0292267664b.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Emotion",
+      "type": "emotion", 
+      "img": "https://ru.childdevelop.com.ua/doc/images/news/4/493/emotion_i.jpg"
+    }
+  ]
+}

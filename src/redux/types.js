@@ -1,0 +1,9 @@
+export const IS_LOGIN = "IS_LOGIN";
+export const LOGIN_LOGIN = "LOGIN_LOGIN";
+export const LOGIN_PASSWORD = "LOGIN_PASSWORD";
+export const SIGN_UP_LOGIN = "SIGN_UP_LOGIN";
+export const SIGN_UP_PASSWORD = "SIGN_UP_PASSWORD";
+export const VALUE_TAB = "VALUE_TAB";
+export const TOKEN = "TOKEN";
+export const USER_NAME = "USER_NAME";
+export const TYPE_CARDS = "TYPE_CARDS";
